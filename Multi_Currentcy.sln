@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi_Currentcy", "Multi_Currentcy\Multi_Currentcy.csproj", "{9868FCC2-F086-4788-BF7D-81643116146D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyHelper", "CurrencyHelper\CurrencyHelper.csproj", "{9066818D-8C91-47E3-8B18-B7D2AA7BE35C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbHelper", "DbHelper\DbHelper.csproj", "{9AAC4BB6-618D-43E0-8A5F-467FB65B5DC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9868FCC2-F086-4788-BF7D-81643116146D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9868FCC2-F086-4788-BF7D-81643116146D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9868FCC2-F086-4788-BF7D-81643116146D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9868FCC2-F086-4788-BF7D-81643116146D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9066818D-8C91-47E3-8B18-B7D2AA7BE35C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9066818D-8C91-47E3-8B18-B7D2AA7BE35C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9066818D-8C91-47E3-8B18-B7D2AA7BE35C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9066818D-8C91-47E3-8B18-B7D2AA7BE35C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AAC4BB6-618D-43E0-8A5F-467FB65B5DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAC4BB6-618D-43E0-8A5F-467FB65B5DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAC4BB6-618D-43E0-8A5F-467FB65B5DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAC4BB6-618D-43E0-8A5F-467FB65B5DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
